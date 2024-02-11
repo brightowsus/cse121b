@@ -1,3 +1,4 @@
+//comments included 
 const templesElement = document.querySelector('#temples');
 let templeList = [];
 
